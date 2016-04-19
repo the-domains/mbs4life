@@ -3,12 +3,12 @@ typography_spectrum: 0.9754609
 color:
   saturation: 0.8298117
   lightness: 0.7361773
-  brandStrength: 1
+  brandStrength: 0
   brandColors:
-    - '#BC0A29'
-    - '#010000'
-    - '#555859'
-    - '#202122'
-    - '#CF5167'
+    - '#2B2319'
+    - '#7A6B56'
+    - '#BDA57F'
+    - '#E3C394'
+    - '#BA8040'
   rhythmicContrast: 0.2038941
 name: Mbs4life
