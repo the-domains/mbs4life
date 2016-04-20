@@ -1,9 +1,20 @@
-layout_spectrum: 0.6331667
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9754609
 color:
   saturation: 0.8298117
-  lightness: 0.7361773
   brandStrength: 0
+  lightness: 0.4260652
   brandColors:
     - '#2B2319'
     - '#7A6B56'
@@ -11,4 +22,5 @@ color:
     - '#E3C394'
     - '#BA8040'
   rhythmicContrast: 0.2038941
+layout_spectrum: 0.6331667
 name: Mbs4life
